@@ -1,5 +1,5 @@
 # BioinfoCopilot YouTube Tutorials
-![COpilot](https://example.com/image.png)
+![Copilot](https://github.com/pritampanda15/YouTube_Tutorials/blob/main/Youtube%20Banner.png)
 
 Welcome to the **BioinfoCopilot** GitHub repository! This repository is dedicated to organizing and sharing tutorials available on my YouTube channel, [BioinfoCopilot](https://www.youtube.com/@BioinfoCopilot). Here, you’ll find resources, links, and descriptions for tutorials on bioinformatics, computational biology, molecular dynamics, and other specialized scientific tools and workflows.
 
