@@ -81,8 +81,7 @@ Check out some of the latest tutorials on my channel:
 
 Feel free to reach out and connect!  
 - **YouTube**: [BioinfoCopilot](https://www.youtube.com/@BioinfoCopilot)
-- **Twitter**: [@BioinfoCopilot](https://twitter.com/BioinfoCopilot)
-- **GitHub**: [BioinfoCopilot](https://github.com/YourGitHubProfile)
+- **GitHub**: [pritampanda15]([https://github.com/YourGitHubProfile](https://github.com/pritampanda15))
 
 ---
 
